@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Anakotmai';
     src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2);
-    font-weight: 500;
+    font-weight: 600;
     font-style: normal;
 }
 
@@ -15,7 +15,7 @@
 @font-face {
     font-family: 'Anakotmai';
     src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2);
-    font-weight: 300;
+    font-weight: 200;
     font-style: normal;
 }
 

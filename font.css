@@ -1,195 +1,24 @@
-/* cyrillic-ext */
-@font-face {
-    font-family: 'Anakotmai', sans-serif;
+
+  @font-face {
+    font-family: 'Anakotmai';
     font-style: normal;
     font-weight: 300;
     src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2) format('woff2');
   }
-  /* cyrillic */
   @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 300;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2) format('woff2');
-  }
-  /* greek-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 300;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2) format('woff2');
-  }
-  /* greek */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 300;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2) format('woff2');
-  }
-  /* vietnamese */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 300;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2) format('woff2');
-  }
-  /* latin-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 300;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2) format('woff2');
-  }
-  /* latin */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 300;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-light.woff2) format('woff2');
-  }
-  /* cyrillic-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
+    font-family: 'Anakotmai';
     font-style: normal;
     font-weight: 400;
     src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-medium.woff2) format('woff2');
   }
-  /* cyrillic */
   @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-medium.woff2) format('woff2');
-  }
-  /* greek-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-medium.woff2) format('woff2');
-  }
-  /* greek */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-medium.woff2) format('woff2');
-  }
-  /* vietnamese */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-medium.woff2) format('woff2');
-  }
-  /* latin-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-medium.woff2) format('woff2');
-  }
-  /* latin */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-medium.woff2) format('woff2');
-  }
-  /* cyrillic-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
+    font-family: 'Anakotmai';
     font-style: normal;
     font-weight: 500;
     src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
   }
-  /* cyrillic */
   @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* greek-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* greek */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* vietnamese */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* latin-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* latin */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* cyrillic-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* cyrillic */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* greek-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* greek */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* vietnamese */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* latin-ext */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');
-  }
-  /* latin */
-  @font-face {
-    font-family: 'Anakotmai', sans-serif;
+    font-family: 'Anakotmai';
     font-style: normal;
     font-weight: 700;
     src: url(https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont@main/webfont/anakotmai-bold.woff2) format('woff2');

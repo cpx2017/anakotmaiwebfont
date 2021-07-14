@@ -5,4 +5,4 @@
 
 Link https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont/anakot.css
 
-สำหรับ HTML Tag <link href='https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont/anakot.css' rel='stylesheet'>
+สำหรับ HTML Tag <code><link href='https://cdn.jsdelivr.net/gh/cpx2017/anakotmaiwebfont/anakot.css' rel='stylesheet'></code>
